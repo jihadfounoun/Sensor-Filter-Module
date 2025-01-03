@@ -49,7 +49,7 @@ An example application is a **smart air purifier** equipped with sensors for hum
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sensor-filter-module.git
+   git clone https://github.com/jihadfounoun/Sensor-Filter-Module.git
    ```
 2. Explore the `code.vhd` file for the VHDL implementation.
 3. Refer to the `report.pdf` and `project_specifications.pdf` for detailed understanding.
